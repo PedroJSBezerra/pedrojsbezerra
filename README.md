@@ -23,4 +23,6 @@ Estou seguindo esta stack de aprendizado.
     - [ ] routing
     - [ ] ejs
 - [ ] React
+- [ ] Svelte
+    - [X] Basics
 - [ ] React Native
